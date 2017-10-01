@@ -31,7 +31,7 @@ var shape = function() {
 
   var coords = [];
   
-  x = 0;
+  var x = 0;
   while (x < 20) {
   
     var newNumbers2 = randomPoints();
